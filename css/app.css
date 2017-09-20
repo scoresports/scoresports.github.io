@@ -1,5 +1,8 @@
 body {
-  background: #fff;
+  background-color: #009CDE;
+  background-image: url(../images/bg.jpg);
+  background-position: center;
+  background-size: cover;
   color: #475058;
   font-weight: normal;
   font-family: "Roboto", Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -81,10 +84,6 @@ header {
     color: #fff; }
 
 #topwrap {
-  background-color: #009CDE;
-  background-image: url(../images/bg.jpg);
-  background-position: center;
-  background-size: cover;
   height: 100%;
   color: #fff;
   text-align: center; }
