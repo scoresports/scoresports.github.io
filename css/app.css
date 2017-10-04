@@ -78,7 +78,7 @@ header {
     float: right;
   }
 
-  .button {
+  input.button {
 
     background: #643466;
     border-radius: 3px;
